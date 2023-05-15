@@ -6,7 +6,7 @@
 将含有漫画图片('.jpg', '.jpeg', '.png', '.gif', '.bmp')的文件夹压缩为Comic Book Zip(.cbz)格式，便于CDisplay、Komga等程序浏览漫画。
 
 ## 程序截图
-![]()
+![](https://raw.githubusercontent.com/bai0012/cbz_auto_zipper/main/demo.png)
 
 ## 如何使用
 
